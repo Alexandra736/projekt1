@@ -1,3 +1,3 @@
-projekt 1 część
-projekt leży w oddiałach
+projekt 1 częś,
+projekt leży w oddiałach,
 projekt nazywa się " Gra o snake "
